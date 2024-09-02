@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+	padding: 0;
+	border: 0;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+ol, ul {
+    list-style: none;
+}
